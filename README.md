@@ -1,7 +1,8 @@
 # Hi there 👋, I'm Pavel!  
 
 🎓 I'm 19 years old and from Moldova.  
-💻 Currently studying **Computer Science** at **Harbin Institute of Technology, Shenzhen (HITSZ)**.  
+💻 Currently studying **Computer Science** at **Harbin Institute of Technology, Shenzhen (HITSZ)**.
+I am proficient in **Russian** and **English**.(I can also understand Bulgarian,Moldavian and Chinese)
 
 ---
 
