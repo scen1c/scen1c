@@ -14,12 +14,12 @@
 ---
 
 ### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=scen1c&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=scen1c&layout=compact&theme=tokyonight)
 
 ---
 
 ### 📫 Connect with me
 - Telegram: [scen1c20](https://t.me/scen1c20)  
 - Instagram: [@pal_sani4](https://instagram.com/pal_sani4)
-- Wechat: [scen1c-]
+- Wechat: **scen1c-**
