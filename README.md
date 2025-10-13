@@ -19,6 +19,7 @@ I'm proficient in **Russian** and **English**.(I can also understand Bulgarian,M
 ### 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=scen1c&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=scen1c&layout=compact&theme=tokyonight)
+![Roadmap Profile](https://roadmap.sh/card/tall/68d791fcb25744c5b5fa36f8?variant=dark)
 
 ---
 
