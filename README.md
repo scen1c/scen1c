@@ -9,11 +9,11 @@ I'm proficient in **Russian** and **English**.(I can also understand Bulgarian,M
 ---
 
 ### 🔧 Tech Stack
-![C++](https://img.shields.io/badge/-C++-333?style=flat&logo=linux&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=linux&logoColor=white)
-![Rust](https://img.shields.io/badge/-Rust-333?style=flat&logo=linux&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-333?style=flat&logo=linux&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-333?style=flat&logo=linux&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-2E3440?style=flat&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-2E3440?style=flat&logo=python&logoColor=white)
+![Rust](https://img.shields.io/badge/-Rust-2E3440?style=flat&logo=rust&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-2E3440?style=flat&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-2E3440?style=flat&logo=linux&logoColor=white)
 ---
 
 ### 📊 GitHub Stats
