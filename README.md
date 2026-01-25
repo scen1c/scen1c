@@ -14,6 +14,7 @@ I'm proficient in **Russian** and **English**.(I can also understand Bulgarian,M
 ![Rust](https://img.shields.io/badge/-Rust-2E3440?style=flat&logo=rust&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-2E3440?style=flat&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-2E3440?style=flat&logo=linux&logoColor=white)
+
 ---
 
 ### 📊 GitHub Stats
@@ -23,7 +24,11 @@ I'm proficient in **Russian** and **English**.(I can also understand Bulgarian,M
 
 ---
 
+### Roadmap Stats
+![Roadmap Profile](https://roadmap.sh/card/tall/68d791fcb25744c5b5fa36f8?variant=dark)
+
+---
+
 ### 📫 Connect with me
 - Telegram: [scen1c20](https://t.me/scen1c20)  
-- Instagram: [@pal_sani4](https://instagram.com/pal_sani4)
 - Wechat: **scen1c-**
