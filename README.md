@@ -1,33 +1,48 @@
-# Hi there 👋, I'm Pavel!  
+# 👋 Hi, I'm Pavel (scen1c)
 
-🎓 I'm 19 years old and from Moldova.  
-
-💻 Currently studying **Computer Science** at **Harbin Institute of Technology, Shenzhen (HITSZ)**.
-
-I'm proficient in **Russian** and **English**.(I can also understand Bulgarian,Moldavian and Chinese)
+🎓 Computer Science Student at Harbin Institute of Technology, Shenzhen (HITSZ)  
+🌍 Moldova  
 
 ---
 
-### 🔧 Tech Stack
-![C++](https://img.shields.io/badge/-C++-2E3440?style=flat&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-2E3440?style=flat&logo=python&logoColor=white)
-![Rust](https://img.shields.io/badge/-Rust-2E3440?style=flat&logo=rust&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-2E3440?style=flat&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-2E3440?style=flat&logo=linux&logoColor=white)
+## 🚀 About Me
+
+- 💻 Writing code in C++, Rust & Python  
+- 🐧 Linux power user (WSL / Ubuntu / Monitoring / Networking)  
+- 🔧 DevOps learner (Docker, Git, CI/CD, Observability)  
 
 ---
 
-### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=scen1c&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=scen1c&layout=compact&theme=tokyonight)
+## 🛠 Tech Stack
+
+![C++](https://img.shields.io/badge/C++-0f172a?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-0f172a?style=for-the-badge&logo=rust&logoColor=white)
+![Python](https://img.shields.io/badge/Python-0f172a?style=for-the-badge&logo=python&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-0f172a?style=for-the-badge&logo=linux&logoColor=white)
+![Git](https://img.shields.io/badge/Git-0f172a?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0f172a?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
-### Roadmap Stats
-![Roadmap Profile](https://roadmap.sh/card/tall/68d791fcb25744c5b5fa36f8?variant=dark)
+## 📊 GitHub Activity
+
+![GitHub Contribution Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=scen1c&theme=github_dark)
+
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=scen1c&theme=github_dark)
+
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=scen1c&theme=github_dark)
 
 ---
 
-### 📫 Connect with me
-- Telegram: [scen1c20](https://t.me/scen1c20)  
-- Wechat: **scen1c-**
+## 📈 Contribution Snake
+
+![snake gif](https://raw.githubusercontent.com/scen1c/scen1c/output/github-contribution-grid-snake-dark.svg)
+
+---
+
+## 📫 Contact
+
+- 🌐 GitHub: https://github.com/scen1c
+- 💬 Languages: Russian | English | Chinese (basic)
+
+---
