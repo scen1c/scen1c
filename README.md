@@ -36,7 +36,7 @@
 
 ## 📈 Roadmap Statistics
 
-[![roadmap.sh](https://roadmap.sh/card/tall/68d791fcb25744c5b5fa36f8?variant=dark&roadmaps=devops%2Clinux%2Crust%2Ccpp)](https://roadmap.sh)
+[![roadmap.sh](https://roadmap.sh/card/tall/68d791fcb25744c5b5fa36f8?variant=dark)](https://roadmap.sh)
 
 ---
 
