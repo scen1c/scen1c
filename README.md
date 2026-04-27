@@ -21,6 +21,7 @@
 ![Linux](https://img.shields.io/badge/Linux-0f172a?style=for-the-badge&logo=linux&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-0f172a?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-0f172a?style=for-the-badge&logo=docker&logoColor=white)
+![Go](https://img.shields.io/badge/Go-0f172a?style=for-the-badge&logo=go&logoColor=white)
 
 ---
 
